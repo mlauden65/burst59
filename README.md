@@ -1,2 +1,2 @@
 # python-tests
-Sample repository
+Sample repository for testing ClickUp / GitHub integration
